@@ -16,7 +16,3 @@ Managing a complex university timetable can be tricky. I developed this tool to 
 - **API:** Telegram Bot API
 - **Libraries:** Telegram.Bot
 
-## 🔧 Future Roadmap
-- [ ] Move hardcoded schedules to an external JSON configuration file.
-- [ ] Implement a logging system to track notification history.
-- [ ] Add a simple GUI for easy schedule updates.
